@@ -1,19 +1,22 @@
-# name-project
+# 王者荣耀重复名字
 
-## Project setup
+一个生成王者荣耀重复名字的工具
+
+## 独立网页版本
+https://name.okarin.cn/
+
+
+## 部署
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
