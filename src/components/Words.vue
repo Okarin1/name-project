@@ -77,6 +77,7 @@ export default {
   text-decoration: line-through;
 }
 .input{
+  padding: 0.5rem;
   display: flex;
   flex-flow: column nowrap;
 }

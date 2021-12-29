@@ -26,7 +26,6 @@ meta[name="discription"]:after{
 }
 textarea{
 	display: block;
-	margin: 0.5rem;
 	width:calc( 100% - 28px );
 	max-width:calc( 100% - 28px );
 	min-width:calc( 100% - 28px );
