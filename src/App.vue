@@ -30,9 +30,11 @@
         这玩意儿目前只能完全输出中文名字，不能将加了空白的英文名字全部输出。
       </p>
 
-      <h2>支付宝打赏</h2>
+      <h2>打赏</h2>
       <p>
-        <img width="200" src="@/assets/alipay.jpg" alt="支付宝打赏" />
+       <a href="https://donate.okarin.cn/" target="_blank"
+          >点击这里请我喝瓶美汁源吧！</a
+        >
       </p>
 
       <h2>仓库地址</h2>
