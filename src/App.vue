@@ -2,6 +2,7 @@
   <div id="app">
     <words />
     <div class="content-box">
+
       <h2>说明</h2>
       <blockquote>
         <p>一些注意事项</p>
@@ -12,6 +13,13 @@
         </p>
         <p>@送报少年</p>
       </blockquote>
+      
+       <h2>打赏</h2>
+      <p>
+       <a href="https://donate.okarin.cn/" target="_blank"
+          >点击这里请作者喝瓶美汁源吧！</a
+        >
+      </p>
 
       <h2>为什么做这东西？</h2>
       <p>因为我懒🙄</p>
@@ -28,13 +36,6 @@
       <h2>还有什么补充？</h2>
       <p>
         这玩意儿目前只能完全输出中文名字，不能将加了空白的英文名字全部输出。
-      </p>
-
-      <h2>打赏</h2>
-      <p>
-       <a href="https://donate.okarin.cn/" target="_blank"
-          >点击这里请我喝瓶美汁源吧！</a
-        >
       </p>
 
       <h2>仓库地址</h2>
