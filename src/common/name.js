@@ -62,7 +62,7 @@ const permutation = (data) => {
     return ans;
 };
 
-function toWord(words) {
+export function toWord(words) {
     return permutation(words.split('')).sort((a, b) => {
         const lenA = calculateLength(a);
         const lenB = calculateLength(b);
